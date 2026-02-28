@@ -1,32 +1,32 @@
 {
   "name":"hotspotlogin",
   "description":"Use this to Update your price and Logos on the customer interface.",
-  "title": "Bawa WiFi Login",
-  "wifi_name": "easyWiFi",
-  "developers": "Surv Technologies",
+  "title": "Blaq Manu WiFi Login",
+  "wifi_name": "Blaq Manu",
+  "developers": "Mr Faisal",
   "server": "",
   "logo": "ezlogo.png",
   "lnmoapi": "https://dpc.survtechnologies.co.ke/api/",
-  "shortcode": "4036899",
+  "shortcode": "null",
   "paybill": 1,
-  "paybill_no": "4036899",
+  "mpesa pochi": "0111371940",
   "quota": [
     {
       "quota_limit": "80MB",
-      "price": "10",
-      "duration_limit": "",
+      "price": "5",
+      "duration_limit": "1 hour",
       "color": "green"
     },
     {
       "quota_limit": "200MB",
       "price": "20",
-      "duration_limit": "",
+      "duration_limit": "2 hours",
       "color": "blue"
     },
     {
       "quota_limit": "1GB",
-      "price": "100",
-      "duration_limit": "",
+      "price": "30",
+      "duration_limit": "3 hours",
       "color": "red"
     }
   ],
